@@ -19,16 +19,16 @@ First, install the program require to run the application: [Node.js](https://nod
 
 Then, clone this repository:
 
-`git clone https://github.com/linhchi33a/ChiNguyen-skipliCodingChallenge.git`
+`git clone https://github.com/linhchi33a/authentication-react-express-app.git`
 
 After that, in the root directory of the project install node modules:
 
 `npm install`
 
 # back-end
-Run the back-end by go the back-end directory:
+Run the back-end by going the back-end directory:
 
-`cd /yourprojectdirectory/backend`
+`cd /authentication-react-express-app/backend`
 
 Start the back-end environment with the following command:
 
@@ -37,9 +37,9 @@ Start the back-end environment with the following command:
 The back-end should be running on [http://localhost:3001/](http://localhost:3001/).
 
 # front-end
-Run the back-end by go the back-end directory:
+Run the back-end by going the back-end directory:
 
-`cd /yourprojectdirectory/client/my-app`
+`cd /authentication-react-express-app/client/my-app`
 
 Start the application with the following command:
 
