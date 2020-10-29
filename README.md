@@ -15,9 +15,7 @@ database : [Firebase](https://firebase.google.com).
 sms message text: [twillio](https://www.twilio.com).
 
 ## Installation
-First, install the program require to run the application:
-
-[Node.js](https://nodejs.org/en/download/).
+First, install the program require to run the application: [Node.js](https://nodejs.org/en/download/).
 
 Then, clone this repository:
 
