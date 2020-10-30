@@ -30,7 +30,6 @@ After that, install node modules:
 `npm install`
 
 Start the back-end environment with the following command:
-
 `npm start`
 
 The back-end should be running on [http://localhost:3001/](http://localhost:3001/).
@@ -45,7 +44,6 @@ After that, install node modules:
 
 
 Start the application with the following command:
-
 `npm start`
 
 The front-end application should be running on [http://localhost:3000/](http://localhost:3000/).
