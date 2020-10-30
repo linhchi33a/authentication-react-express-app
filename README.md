@@ -21,17 +21,15 @@ Then, clone this repository:
 
 `git clone https://github.com/linhchi33a/authentication-react-express-app.git`
 
-After that, in the root directory of the project install node modules:
-
-`npm install`
-
 # back-end
 Run the back-end by going the back-end directory:
 
 `cd /authentication-react-express-app/backend`
 
-Start the back-end environment with the following command:
+After that, install node modules:
+`npm install`
 
+Start the back-end environment with the following command:
 `npm start`
 
 The back-end should be running on [http://localhost:3001/](http://localhost:3001/).
@@ -41,8 +39,11 @@ Run the back-end by going the back-end directory:
 
 `cd /authentication-react-express-app/client/my-app`
 
-Start the application with the following command:
+After that, install node modules:
+`npm install`
 
+
+Start the application with the following command:
 `npm start`
 
 The front-end application should be running on [http://localhost:3000/](http://localhost:3000/).
