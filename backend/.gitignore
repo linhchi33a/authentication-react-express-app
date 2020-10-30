@@ -63,5 +63,5 @@ node_modules/
 .yarn-integrity
 
 # dotenv environment variables file
-#.env
-# for the sake of Twillio running I submit the Twillio authentication code.
+env
+# If you need my .env file please contact me via email for information.
