@@ -29,6 +29,12 @@ Run the back-end by going the back-end directory:
 After that, install node modules:
 `npm install`
 
+Create a .env file in to store the following info .env file. (If you need my .env file please contact me via email for information.)
+
+`TWILIO_ACCOUNT_SID=your_account_sid
+TWILIO_AUTH_TOKEN=your_auth_token
+TWILIO_PHONE_NUMBER=your_twilio_phone_number`
+
 Start the back-end environment with the following command:
 `npm start`
 
